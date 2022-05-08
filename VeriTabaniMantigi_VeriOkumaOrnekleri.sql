@@ -785,3 +785,4 @@ SELECT TOP (1000) [ID]
 
 --DELETE FROM  Personnel WHERE ID=59;
 
+-- yeni satýr eklendi
